@@ -26,7 +26,7 @@ typeof(3) === typeof("3")
 
 > _false_
 
-> _resultado en la consola_
+> _false_
 
 4. Qué retona la siguiente expresión?
 ```
